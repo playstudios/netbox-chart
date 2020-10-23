@@ -346,6 +346,8 @@ reportsPersistence:
 
 podAnnotations: {}
 
+podLabels: {}
+
 podSecurityContext:
   # fsGroup: 1000
   runAsNonRoot: true
